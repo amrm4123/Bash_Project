@@ -24,6 +24,7 @@ chmod +x process_monitor.sh
 4. Run the script with the following command:
 
 ./process_monitor.sh
+
 5. Follow the on-screen menu options to perform different actions.
 
 ## Configuration
